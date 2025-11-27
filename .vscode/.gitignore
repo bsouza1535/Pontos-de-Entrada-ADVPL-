@@ -1,0 +1,40 @@
+# Ignore VSCode workspace settings
+/.vscode/
+/*.code-workspace
+# Ignore VSCode extensions folder
+/.vscode/extensions/
+# Ignore VSCode debug logs
+/.vscode/.logs/
+# Ignore VSCode tasks cache
+/.vscode/tasks.json
+# Ignore VSCode snippets
+/.vscode/snippets/
+# Ignore VSCode user data
+/.vscode/userdata/
+# Ignore VSCode history
+/.vscode/history/
+# Ignore VSCode workspace storage
+/.vscode/workspaceStorage/
+# Ignore VSCode settings sync
+/.vscode/settingsSync/
+# Ignore VSCode cached data
+/.vscode/cachedData/
+# Ignore VSCode telemetry data
+/.vscode/telemetry/
+# Ignore VSCode crash reports
+/.vscode/crashReports/
+/docs/.vscode/
+/.vscode/.gitignore
+/.vscode/.vscodeignore
+/.vscode/.eslintcache
+/.vscode/.prettiercache
+/.vscode/.stylelintcache
+/.vscode/.swcrc
+/.vscode/.babelcache
+/.vscode/.parcel-cache
+/.vscode/.next/
+/.vscode/.nuxt/
+/.vscode/.expo/
+/.vscode/.turbo/
+/.vscode/*
+/docs
