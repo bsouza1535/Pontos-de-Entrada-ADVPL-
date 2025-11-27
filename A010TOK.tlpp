@@ -2,8 +2,7 @@
 
 
 /*/{Protheus.doc} A010TOK
-Ponto de entrada para impedir inclusão e alteração dos 
-produtos com grupos 0008/0009/0010/0011/0012
+Ponto de entrada para impedir inclusão e alteração dos produtos com grupos 0008/0009/0010/0011/0012
 autor:  Bruno Souza
 data:     2025-11-18
 versao:  1.0
