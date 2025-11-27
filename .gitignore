@@ -38,3 +38,4 @@
 /.vscode/.turbo/
 /.vscode/*
 /docs
+.vscode/*
