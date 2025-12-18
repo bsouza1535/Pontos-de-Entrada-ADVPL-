@@ -1,3 +1,5 @@
 {
-    "totvsLanguageServer.editor.linter.includes": "C:\\Users\\bruno.souza\\Documents\\ProjetoAvantia\\Includes"
+    "totvsLanguageServer.editor.linter.includes": "C:\\Users\\bruno.souza\\Documents\\ProjetoAvantia\\Includes",
+    "advpl.projectActive": "Pontos-de-Entrada-ADVPL-",
+    "totvsLanguageServer.welcomePage": false
 }
