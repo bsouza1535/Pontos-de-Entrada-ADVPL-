@@ -2,7 +2,7 @@
 
 /*
 @Protheus.doc PRW PE_M030DEL
-Ponto de Entrada para o Processo de Exclusão de Itens do Estoque (MVC) 
+Ponto de Entrada para o Processo de Exclusão de Clientes 
 Este Ponto de Entrada é acionado durante o processo de exclusão de clientes. Ele permite a implementação de lógicas personalizadas antes que a exclusão seja efetivada.
 @return     lRet - Lógico indicando se a operação deve continuar (.T.) ou ser bloqueada (.F.).
 @author     Bruno Souza
